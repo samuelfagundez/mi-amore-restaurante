@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/LvkBEoQPvtNbj8bT8",
+    "expandedUrl": "https://www.google.com/maps/place/Mi+amore+-+Restaurante/@39.4576137,-0.3496507,19.75z/data=!4m6!3m5!1s0xd6049cfb81243bf:0xbca440a42976f2da!8m2!3d39.4577652!4d-0.3496578!16s%2Fg%2F11yl_vmsd6?entry=tts&g_ep=EgoyMDI2MDkwOS4wIPu8ASoASAFQAw%3D%3D&skid=09576eef-0ea3-4ec9-b171-a3cc92d6f706&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=13593060649125475034&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJv0MSuM9JYA0R2vJ2KaRApLw",
+    "featureId": "0xd6049cfb81243bf:0xbca440a42976f2da",
+    "gmapsPlaceRef": "/g/11yl_vmsd6",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-15T21:51:00.429Z"
+  },
+  "name": "Mi amore - Restaurante",
+  "rating": {
+    "score": 4.9,
+    "count": 1104
+  },
+  "phone": "+34 722 28 12 05",
+  "phoneNational": "722 28 12 05",
+  "hours": {
+    "weekly": [
+      "lunes: 10:00–24:00",
+      "martes: 10:00–24:00",
+      "miércoles: 10:00–24:00",
+      "jueves: 10:00–24:00",
+      "viernes: 10:00–24:00",
+      "sábado: 10:00–24:00",
+      "domingo: 10:00–24:00"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 6,
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 10,
+          "minute": 0
+        },
+        "close": {
+          "day": 0,
+          "hour": 0,
+          "minute": 0
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [],
+  "pricePerPerson": "30 € – 40 €",
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "links": {
+    "website": null,
+    "menu": null,
+    "reservations": null,
+    "reservable": true,
+    "googleMaps": "https://maps.google.com/?cid=13593060649125475034&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd6049cfb81243bf:0xbca440a42976f2da!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd6049cfb81243bf:0xbca440a42976f2da!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd6049cfb81243bf:0xbca440a42976f2da!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd6049cfb81243bf:0xbca440a42976f2da!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "Pg. de l'Albereda, 47B, Camins al Grau, 46023 València, Valencia",
+    "short": "P.º de la Alameda, 47B, Valencia",
+    "components": {
+      "number": "47B",
+      "street": "Passeig de l'Albereda",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46023"
+    }
+  },
+  "location": {
+    "lat": 39.4577652,
+    "lng": -0.34965779999999996
+  },
+  "primaryType": "restaurant",
+  "primaryTypeLabel": "Restaurante",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": null,
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Admite reservas",
+    "Comer en el local",
+    "Para llevar",
+    "Terraza / asientos fuera",
+    "Se admiten perros",
+    "Aseos",
+    "Brunch",
+    "Comidas",
+    "Cenas",
+    "Cafés",
+    "Postres",
+    "Opciones vegetarianas",
+    "Cerveza",
+    "Vino",
+    "Cócteles"
+  ],
+  "accessibility": [
+    "Entrada accesible",
+    "Asientos accesibles"
+  ],
+  "paymentOptions": {
+    "acceptsCreditCards": true,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": {
+    "freeParkingLot": true
+  },
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 384,
+      "heightPx": 504,
+      "attribution": "Mi amore - Restaurante",
+      "attributionUri": "https://maps.google.com/maps/contrib/110116281962220977878"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 1146,
+      "heightPx": 1494,
+      "attribution": "Mi amore - Restaurante",
+      "attributionUri": "https://maps.google.com/maps/contrib/110116281962220977878"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 2048,
+      "heightPx": 1214,
+      "attribution": "Thomas Frischknecht",
+      "attributionUri": "https://maps.google.com/maps/contrib/116383085478629944348"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 1086,
+      "heightPx": 1448,
+      "attribution": "Zubair Butt",
+      "attributionUri": "https://maps.google.com/maps/contrib/100776024201218087230"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "attribution": "Sara",
+      "attributionUri": "https://maps.google.com/maps/contrib/114054706211103751429"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "Aurora Donega",
+      "attributionUri": "https://maps.google.com/maps/contrib/106048674421531294371"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 1170,
+      "heightPx": 843,
+      "attribution": "Alejandro cuesta pastor",
+      "attributionUri": "https://maps.google.com/maps/contrib/111719469086101319105"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 2048,
+      "heightPx": 1536,
+      "attribution": "AMILCAR RODRIGUEZ",
+      "attributionUri": "https://maps.google.com/maps/contrib/103879518290951437739"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "attribution": "Cristina Montesinos",
+      "attributionUri": "https://maps.google.com/maps/contrib/111234794888165335318"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 2048,
+      "heightPx": 1536,
+      "attribution": "Maroun Merhej",
+      "attributionUri": "https://maps.google.com/maps/contrib/113877182757272591059"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Thais Garcia",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXqiTgphmlJpCodK7_unKGHhAKUzQokJyvrtaT6QXj1azwCLSteEw=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/103363281047329531024/reviews",
+      "rating": 5,
+      "text": "Fuimos a comer y quedamos encantados, la comida buenísima, el servicio inmejorable y la experiencia súper buena.",
+      "language": "es",
+      "relativeTime": "Hace 2 meses",
+      "publishTime": "2026-07-14T12:57:41.303827307Z"
+    },
+    {
+      "author": "David Keshabyan",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjXk1ZB_ZPoPDnfPrOgukco9T2FxVSMHP_v1FRY3fuDmfMtpas7ylw=s128-c0x00000000-cc-rp-mo-ba5",
+      "authorUri": "https://www.google.com/maps/contrib/102830225245166394699/reviews",
+      "rating": 5,
+      "text": "Acabo de tener una experiencia gastronomíca muy interesante. Un local de cocina mediterránea donde he podido degustar magníficos entrantes, carnes, arroces y mariscos. Salgo con sensación de haber comido francamente bien. No se lo pierdan.",
+      "language": "es",
+      "relativeTime": "Hace 2 meses",
+      "publishTime": "2026-07-09T18:50:25.472686061Z"
+    },
+    {
+      "author": "Cristina del Pilar Chavez Martinez",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjWoi2IFd2iv-gDwvHqh0Gkb5ul4aUjRSgWoARMpLJXqlxEZsjOsFA=s128-c0x00000000-cc-rp-mo-ba3",
+      "authorUri": "https://www.google.com/maps/contrib/117016951947376123148/reviews",
+      "rating": 5,
+      "text": "Excelente experiencia culinaria. Nos encantó el pescado de día muy fresco. Y el pulpo sabrosisimo.",
+      "language": "es",
+      "relativeTime": "Hace 4 meses",
+      "publishTime": "2026-05-10T12:10:43.540113605Z"
+    },
+    {
+      "author": "Elisabeth",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocI-oNc9tyl22v6Y6qJSyeoXVDpb6VaSp1wLEL_G1IBYTJpWn9Ug=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/106204310611296678739/reviews",
+      "rating": 5,
+      "text": "Una atención estupenda de Victor , la comida esquisita y el ambiente muy tranquilo. Han estado muy atentos con nosotros! Volveremos pronto",
+      "language": "es",
+      "relativeTime": "Hace 5 meses",
+      "publishTime": "2026-04-02T15:22:51.958043376Z"
+    },
+    {
+      "author": "Daniel Luna",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVpijMlQaHFj1AZUGWH1P0TtP1WrQSZykIrVlNRU02SQoFXBiFZ7g=s128-c0x00000000-cc-rp-mo",
+      "authorUri": "https://www.google.com/maps/contrib/102833432483978870511/reviews",
+      "rating": 5,
+      "text": "La primera vez q iba,lo conocí mediante instagram... fuimos a probar y la verdad que todo muy nuy bueno!!! Sitio acogedor,buen trato,buen servicio... a ver si hay suerte y toca el sorteo que nos dijo el camarero Víctor Manuel... aun así volveré",
+      "language": "es",
+      "relativeTime": "Hace 4 meses",
+      "publishTime": "2026-05-01T13:39:36.120445155Z"
+    }
+  ]
+}
