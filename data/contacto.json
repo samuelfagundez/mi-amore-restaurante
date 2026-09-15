@@ -1,0 +1,13 @@
+{
+  "nombre": "Mi amore - Restaurante",
+  "contacto": "722281205",
+  "email": null,
+  "mapsUrl": "https://maps.app.goo.gl/LvkBEoQPvtNbj8bT8",
+  "instagram": "https://www.instagram.com/miamore.valencia",
+  "tiktok": "https://www.tiktok.com/@miamore.valencia",
+  "webPedidos": null,
+  "webReservas": "https://api.whatsapp.com/send/?phone=34722281205&text&type=phone_number&app_absent=0",
+  "webMenu": "https://drive.google.com/file/d/1JCXqs1pzRehwKJ7p_quHyDSp01_ju19i/view",
+  "intakeFecha": "2026-09-15",
+  "fuente": "Sheet registro_Pidetuwebya"
+}
