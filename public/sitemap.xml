@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://samuelfagundez.github.io/mi-amore-restaurante/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mi-amore-restaurante/gallery/mi-amore-paella.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mi-amore-restaurante/gallery/mi-amore-comedor-terraza.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mi-amore-restaurante/gallery/mi-amore-sala-interior.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mi-amore-restaurante/gallery/mi-amore-postre-brownie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mi-amore-restaurante/gallery/mi-amore-plato-mediterraneo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mi-amore-restaurante/gallery/mi-amore-cocteles.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mi-amore-restaurante/gallery/mi-amore-marisco.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://samuelfagundez.github.io/mi-amore-restaurante/gallery/mi-amore-terraza-albereda.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

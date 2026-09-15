@@ -1,0 +1,36 @@
+@import 'tailwindcss';
+
+/* Paleta extraída de las fotografías reales del local (rótulo azul marino
+   y blanco, sofás terracota, sillas azul mar, dorado de la paella) — ver
+   punto 0.5 del handoff: nunca una paleta genérica de plantilla. */
+@theme {
+  --color-cream: #f8f4ec;
+  --color-cream-dark: #efe7d6;
+  --color-ink: #221f1d;
+  --color-navy: #1d2a3a;
+  --color-navy-dark: #131c27;
+  --color-terracotta: #c1502e;
+  --color-terracotta-dark: #9c3d22;
+  --color-gold: #d9a441;
+  --color-sea: #3c6e82;
+
+  --font-display: 'Fraunces', ui-serif, Georgia, serif;
+  --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+  }
+}
